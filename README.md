@@ -131,7 +131,7 @@ The original immutable list is not modified.
 
 ---
 
-# ▶️ How to Run
+# How to Run
 
 Go to the project directory:
 
@@ -154,7 +154,7 @@ sbt run
 
 ---
 
-# 📊 Complete Expected Output
+# Complete Expected Output
 
 When you run:
 
